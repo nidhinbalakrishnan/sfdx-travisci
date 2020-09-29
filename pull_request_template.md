@@ -19,10 +19,12 @@
 
 
 ## Screenshots (if required)
+<!--- Please mention N/A if not required -->
 
 
 ## Todos
 - [ ] Testing done in primary scratch org
 - [ ] Verified pushing changes to secondary scratch org
 - [ ] Attached testing screenshots (if required)
-- [ ] Verify that changes from related repo are not included
+- [ ] Verified that changes from related repos are not included
+- [ ] This pull request is ready to be merged
