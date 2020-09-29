@@ -1,3 +1,4 @@
+// Just a comment to test PR template
 public with sharing class myclass {
 	public myclass() {
 
