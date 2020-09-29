@@ -29,9 +29,9 @@
 <!--- Mention N/A if not required -->
 
 
-## Todos
-- [ ] Testing done in primary scratch org
+## PR Checklist
+- [ ] Testing is done in primary scratch org
 - [ ] Verified pushing changes to secondary scratch org
-- [ ] Attached testing screenshots (if required)
+- [ ] Testing screenshots are attached (if requied)
 - [ ] Verified that changes from related repos are not included
 - [ ] This pull request is ready to be merged
