@@ -1,3 +1,4 @@
+// just a test comment
 public with sharing class myclass {
 	public myclass() {
 
